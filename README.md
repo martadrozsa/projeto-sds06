@@ -8,15 +8,15 @@ Esta aplicação consiste em exibir um catálogo de filmes fornecidos por um bac
 
 Este projeto foi desenvolvido utilizando:
 
-React
-Typescript
-Java 11
-Spring
-PostgreSQL
-Netlify/GitHub (deploy)
-Heroku (cloud)
-APIs REST
-Postman
+ - React
+ - Typescript
+ - Java 11
+ - Spring
+ - PostgreSQL
+ - Netlify/GitHub (deploy)
+ - Heroku (cloud)
+ - APIs REST
+ - Postman
 
 # Aplicação
 
