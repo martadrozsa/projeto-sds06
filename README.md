@@ -2,8 +2,6 @@
 
 Semana Spring React
 
-https://github.com/devsuperior/sds4
-
 https://devsuperior.com.br/evento-sds
 
 Esta aplicação consiste em exibir um catálogo de filmes fornecidos por um backend construído com Spring Boot
