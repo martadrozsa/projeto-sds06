@@ -21,15 +21,15 @@ Este projeto foi desenvolvido utilizando:
 
 
 
-## **Run with Docker**
+## **Executar com Docker**
 
-### Build
+### Compilar
 
 ```shell
 docker build -t dsmovie .
 ```
 
-### Run
+### Executar
 
 ```shell
 docker run -p 8080:8080 --name dsmovies dsmovie
