@@ -21,3 +21,19 @@ Este projeto foi desenvolvido utilizando:
 # Aplicação
 
 https://dsmovie-marta.netlify.app/
+
+## Run with Docker
+
+### Build
+
+```shell
+docker build -t dsmovie .
+```
+
+### Run
+
+```shell
+docker run -p 8080:8080 --name dsmovies dsmovie
+```
+
+
