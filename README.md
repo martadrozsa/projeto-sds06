@@ -18,11 +18,10 @@ Este projeto foi desenvolvido utilizando:
  - APIs REST
  - Postman
 
-# Aplicação
 
-https://dsmovie-marta.netlify.app/
 
-## Run with Docker
+
+## **Run with Docker**
 
 ### Build
 
@@ -36,4 +35,13 @@ docker build -t dsmovie .
 docker run -p 8080:8080 --name dsmovies dsmovie
 ```
 
+# Aplicação
+
+
+https://dsmovie-marta.netlify.app/
+
+
+![Screenshot from 2022-01-14 21-40-32](https://user-images.githubusercontent.com/83780126/149660514-8d00533b-4d48-416e-93d6-412a1df3b63e.png)
+
+![Screenshot from 2022-01-14 21-51-45](https://user-images.githubusercontent.com/83780126/149660538-6f57fa2d-048b-4936-b4eb-e8a2ff63fe4d.png)
 
